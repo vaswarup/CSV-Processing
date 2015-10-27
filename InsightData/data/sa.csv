@@ -1,0 +1,1001 @@
+evidence_id,sale_date,settlement_price,beds,baths,parking,full_street_address
+52827404,18/05/2015,495000,3,2,2,9b willow crescent campbelltown sa 5074
+52471475,18/05/2015,495000,3,2,2,9b willow crescent campbelltown sa 5074
+51990950,30/09/2005,305000,2,1,3,10 forrest street victor harbor sa 5211
+7279565,30/09/2005,305000,2,1,2,10 forrest street victor harbour nth sa 5211
+18340283,03/04/2009,286000,2,1,2,10 forrest street victor harbor sa 5211
+51054452,01/04/1996,26000,3,1,2,39 copernicus road christie downs sa 5164
+7517240,29/09/2005,172000,3,1,2,39 copernicus road christie downs sa 5164
+7517232,01/04/1996,26000,3,1,2,39 copernicus road christie downs sa 5164
+52353452,12/03/2013,450000,3,2,1,16 dryden road black forest sa 5035
+46250664,26/06/2014,650000,3,2,1,16 dryden road black forest sa 5035
+52077583,20/04/2007,250000,3,2,2,32 burdett drive paralowie sa 5108
+42180809,10/04/2013,300000,3,2,1,32 burdett drive paralowie sa 5108
+52353028,07/03/2013,237000,3,1,1,41 taylor street reynella sa 5161
+42015807,07/03/2013,237000,3,1,1,41 taylor street reynella sa 5161
+51016173,19/04/1995,93500,3,1,1,10 hibiscus court morphett vale sa 5162
+18233300,05/02/2009,278000,3,1,3,10 hibiscus court morphett vale sa 5162
+42015697,11/03/2013,600000,4,2,2,18 hawker road aldgate sa 5154
+52353558,13/03/2013,265000,2,1,3,88 cleveland terrace ottoway sa 5013
+7229700,12/11/2001,114000,3,1,2,10 montana drive salisbury sa 5108
+52311589,06/03/2012,185000,2,1,1,3 / 27 pearce street o'sullivan beach sa 5166
+51298520,27/06/2001,115000,2,1,1,7 / 8 kyle street glenside sa 5065
+52305937,06/01/2012,140000,3,1,2,139 carlton parade port augusta sa 5700
+50915057,26/03/1993,68500,2,1,4,4 thomas street manoora sa 5414
+52086453,13/06/2007,120000,2,1,4,4 thomas street manoora sa 5414
+52353996,15/03/2013,185000,2,1,4,4 thomas street manoora sa 5414
+6611004,01/12/1997,25000,3,2,2,38 albert street clarence gdns sa 5039
+51990482,29/09/2005,190000,3,1,1,3 / 1 campbell road paradise sa 5075
+18459669,15/05/2020,438500,3,1,1,4 southern avenue blackwood sa 5051
+6621261,04/03/1996,126000,3,1,1,4 southern avenue blackwood sa 5051
+52189577,27/05/2009,220000,2,1,1,10 / 14 rhyne avenue salisbury sa 5108
+18501574,27/05/2009,220000,2,1,1,10 / 14 rhyne avenue salisbury sa 5108
+52305630,04/01/2012,302500,3,1,4,5 / 2 washington street hilton sa 5033
+14452427,03/04/2008,200000,3,1,2,1b parukala street flinders park sa 5025
+42015681,12/03/2013,340000,3,1,2,8 butler crescent banksia park sa 5091
+6998263,26/06/2003,217500,3,1,2,8 butler crescent banksia park sa 5091
+51094347,11/04/1997,90500,4,1,2,3 bikila court morphett vale sa 5162
+51211295,05/11/1999,110000,4,1,2,3 bikila court morphett vale sa 5162
+51953183,12/01/2005,184000,2,1,1,16 / 181 payneham road st peters sa 5069
+42148969,19/03/2013,260000,2,1,1,16 / 181 payneham road st.peters sa 5069
+52306044,09/01/2012,299000,3,1,1,3 quambi court reynella sa 5161
+51875942,28/08/2003,238000,3,2,1,29 williams road hillbank sa 5112
+7058387,04/06/1997,132000,3,2,1,29 williams road hillbank sa 5112
+51138854,21/04/1998,27000,2,1,3,23 elizabeth street wallaroo sa 5556
+52097472,09/08/2007,175000,2,1,3,23 elizabeth street wallaroo sa 5556
+17990084,04/01/2007,160000,2,1,3,23 elizabeth street wallaroo sa 5556
+52024694,10/05/2006,651000,3,1,2,35 stuart road dulwich sa 5065
+52325493,30/05/2012,440000,3,2,2,87 shearwater drive mawson lakes sa 5095
+42459336,20/06/2013,0,2,1,1,10 / 20 saints road salisbury park sa 5109
+24590926,16/03/2011,155500,3,1,1,1 arthur street clare sa 5453
+52153426,14/08/2008,280000,2,2,2,48 lyndoch road gawler east sa 5118
+34864362,11/01/2012,572000,3,2,7,44a wilpena street eden hills sa 5050
+51297929,25/06/2001,210000,4,1,2,6 grange grove port lincoln sa 5606
+34829867,10/01/2012,305000,2,1,1,1 / 4 alton avenue torrens park sa 5062
+42001351,27/02/2013,285000,4,2,5,6 busbridge court loxton sa 5333
+52350680,12/02/2013,190000,3,1,1,6 kalimna crescent mount gambier sa 5290
+52319892,25/05/2012,310000,3,1,2,1 palmer court pooraka sa 5095
+45250100,26/02/2013,380000,2,1,2,5 / 10 minna terrace semaphore park sa 5019
+52352777,04/03/2013,315000,3,1,4,6 riverina street largs north sa 5016
+7489079,10/06/2004,177500,3,2,2,19 darragh street whyalla playford sa 5600
+6711982,07/03/1996,77500,2,1,1,10 / 33 beach road brighton sa 5048
+7651717,06/08/2007,285150,4,1,2,4 blyth terrace moonta sa 5558
+7114077,21/04/1999,75000,4,1,2,4 blyth terrace langport sa 5558
+6553996,08/02/2006,198000,2,1,1,8 pipers avenue windsor gdns sa 5087
+51125404,23/12/1997,49500,1,1,1,12 / 61 marlborough street malvern sa 5061
+52350470,08/02/2013,225000,1,1,1,12 / 61 marlborough street malvern sa 5061
+51946809,29/11/2004,131000,1,1,1,12 / 61 marlborough street malvern sa 5061
+6730334,03/06/2003,77000,1,1,1,2 / 16 sturt street glenelg nth sa 5045
+52265105,13/12/2010,490000,4,2,4,1 wharfdale lane mawson lakes sa 5095
+34595706,24/11/2011,330000,3,2,3,7 / 27 moore road reynella sa 5161
+52270694,04/02/2011,497500,3,2,2,4 / 11 gertrude street magill sa 5072
+17971117,30/08/2006,213000,3,1,3,9 mccarthy avenue morphett vale sa 5162
+52022055,24/04/2006,110000,3,2,4,71 seaview road victor harbor sa 5211
+52350622,11/02/2013,382000,3,2,4,71 seaview road victor harbor sa 5211
+42055144,15/03/2013,380000,3,1,4,1 lake view crescent highbury sa 5089
+50956474,28/01/1994,128000,3,1,2,11 samuel court greenwith sa 5125
+51842380,28/02/2003,231000,3,1,2,11 samuel court greenwith sa 5125
+6736917,13/05/2004,181000,3,1,1,1 pt willunga sa 5173
+6736910,24/03/1994,63000,3,1,1,1 pt willunga sa 5173
+52188240,15/05/2009,108000,3,1,2,104 emerald boulevard aldinga beach sa 5173
+52350284,07/02/2013,505000,4,2,2,22 charlson rise happy valley sa 5159
+52228422,04/03/2010,207000,3,2,1,62 isla circuit mawson lakes sa 5095
+51190518,08/06/1999,160000,4,2,2,3 hamilton street glenelg north sa 5045
+6731919,08/06/1999,160000,4,2,2,3 hamilton street glenelg nth sa 5045
+52024151,05/05/2006,370500,3,1,2,2 fowler street seaview downs sa 5049
+6690616,03/01/2001,194500,3,1,4,2 fowler street seaview downs sa 5049
+52320060,28/05/2012,495000,4,2,2,3 creekview drive walkley heights sa 5098
+51856682,16/05/2003,107000,4,2,2,3 creekview drive walkley heights sa 5098
+52355299,27/03/2013,312000,4,2,2,25 resolute avenue normanville sa 5204
+52183729,15/04/2009,100000,4,2,2,25 resolute avenue normanville sa 5204
+52351173,15/02/2013,320000,4,2,2,14 trenerry street aldinga beach sa 5173
+52205878,22/09/2009,43000,3,1,2,19 laguna drive port lincoln sa 5606
+51308534,28/08/2001,157500,4,2,2,5 queens lane glen osmond sa 5064
+52405489,26/05/2014,1875000,6,4,3,156 childers street north adelaide sa 5006
+52086293,12/06/2007,1320000,6,4,3,156 childers street north adelaide sa 5006
+51180942,29/03/1999,600000,6,4,3,156 childers street north adelaide sa 5006
+6836365,01/04/2005,680000,3,2,2,12 austin crescent st.georges sa 5064
+7642048,08/06/2007,80000,3,2,2,12 austin crescent st.georges sa 5064
+52826450,22/06/2015,205000,3,1,5,18 geddes road solomontown sa 5540
+52351744,22/02/2013,540000,3,2,2,17 willow bend marden sa 5070
+41946897,22/02/2013,540000,3,2,2,17 willow bend marden sa 5070
+6854140,01/11/2001,100000,3,2,2,17 willow bend marden sa 5070
+42333837,15/05/2013,337000,3,1,1,12 wirilda avenue surrey downs sa 5126
+7204400,04/01/2002,119150,3,1,2,429 bridge road para hills sa 5096
+52424083,13/11/2014,200000,2,1,1,282 derrick road loxton north sa 5333
+50998675,21/11/1994,92000,4,1,5,62 main south road morphett vale sa 5162
+51897570,31/12/2003,169000,3,1,4,9 woodstock avenue christie downs sa 5164
+6965354,11/08/1993,70000,2,1,1,4 kildare close dernancourt sa 5075
+6965362,07/03/1996,96500,2,1,1,4 kildare close dernancourt sa 5075
+51901959,29/01/2004,267500,3,2,2,52 cedar avenue royal park sa 5014
+6927429,10/03/2000,59000,3,2,2,52 cedar avenue royal park sa 5014
+52215757,03/12/2009,145000,4,2,2,9 james lane mawson lakes sa 5095
+19193635,03/12/2009,145000,4,2,2,9 james lane mawson lakes sa 5095
+52086685,14/06/2007,610000,4,2,2,7 lynwood drive marden sa 5070
+51320610,12/11/2001,387000,4,3,11,26 thorngate drive belair sa 5052
+53088516,12/06/2015,170000,3,1,1,26 weigall avenue murray bridge sa 5253
+7625572,24/05/2007,160000,3,1,1,26 weigall avenue murray bridge sa 5253
+52099792,23/08/2007,126000,4,2,2,23 stern road seaford meadows sa 5169
+52247402,02/08/2010,330000,3,2,2,529 milne road ridgehaven sa 5097
+41961884,22/02/2013,270000,2,1,1,529 milne road ridgehaven sa 5097
+52142977,28/05/2008,121000,3,1,2,19 fifth street bordertown sa 5268
+52981271,03/06/2015,410000,3,1,1,1 / 6 alfred avenue seaton sa 5023
+52142314,22/05/2008,310500,3,1,8,49 kalgoorlie avenue port noarlunga south sa 5167
+52351631,21/02/2013,500000,4,2,2,23 reordan drive greenwith sa 5125
+51363488,16/07/2002,69000,4,2,2,23 reordan drive greenwith sa 5125
+52205248,17/09/2009,247500,2,1,1,207 / 162 hindmarsh road victor harbor sa 5211
+52469597,27/08/2008,320000,3,1,2,34 dukas drive ingle farm sa 5098
+52210495,27/10/2009,150000,3,1,3,15a york street northfield sa 5085
+43809214,21/11/2013,310000,3,1,3,15a york street northfield sa 5085
+52384601,21/11/2013,335000,3,2,1,12 cromer court greenwith sa 5125
+38397217,14/11/2012,322000,3,2,1,12 cromer court greenwith sa 5125
+52470172,10/04/2015,461000,3,2,4,21 cormorant avenue flagstaff hill sa 5159
+52142635,23/05/2008,377500,3,2,4,21 cormorant avenue flagstaff hill sa 5159
+6774140,10/03/1999,185000,3,2,2,21 cormorant avenue flagstaff hill sa 5159
+6774150,19/02/2004,275000,3,2,2,21 cormorant avenue flagstaff hill sa 5159
+51251881,10/08/2000,146000,2,1,1,1 / 1a nelson street fullarton sa 5063
+14895663,23/05/2008,440000,3,2,4,31 birman crescent flagstaff hill sa 5159
+7722715,07/01/2008,406000,3,1,3,10 currawong crescent coromandel valley sa 5051
+52319837,25/05/2012,675000,5,2,2,2 blair court greenwith sa 5125
+51934107,02/09/2004,342000,3,2,2,9 albert avenue crafers west sa 5152
+7104601,11/06/2002,228500,3,2,2,9 albert avenue crafers west sa 5152
+51200742,20/08/1999,63750,2,1,2,11 / 15 tretter street morphett vale sa 5162
+7518653,03/07/2001,79000,2,1,2,11 / 15 tretter street morphett vale sa 5162
+7723106,31/12/2007,310000,3,1,4,5 mckenzie crescent gulfview heights sa 5096
+6737757,07/04/2004,209500,3,1,4,4 berry street aldinga beach sa 5173
+52378369,26/09/2013,485000,3,1,3,9 fulton street brighton sa 5048
+43472165,26/09/2013,485000,3,1,3,9 fulton street brighton sa 5048
+52378307,25/09/2013,427000,4,1,2,34 galway street kilburn sa 5084
+43430293,25/09/2013,427000,4,2,1,34 galway street kilburn sa 5084
+7651118,31/07/2007,246000,4,1,2,34 galway street kilburn sa 5084
+52142886,27/05/2008,500000,4,2,2,11 leopold street vista sa 5091
+51294161,31/05/2001,108500,2,1,2,3 / 1 philpott avenue paradise sa 5075
+52122800,09/01/2008,317100,2,1,1,4 / 36 eaton street cumberland park sa 5041
+7722547,09/01/2008,317100,2,1,1,4 / 36 eaton street cumberland park sa 5041
+52090536,29/06/2007,350000,3,1,1,20 cecelia street north brighton sa 5048
+7622537,29/06/2007,350000,3,1,1,20 cecelia street north brighton sa 5048
+52319569,23/05/2012,320000,4,1,2,65 fiveash drive pasadena sa 5042
+34538721,11/11/2011,0,4,2,2,coratina road virginia sa 5120
+52192804,18/06/2009,185000,4,2,2,78 coratina road virginia sa 5120
+52192874,19/06/2009,64000,6,3,1,2748 strathalbyn road macclesfield sa 5153
+18549720,19/06/2009,64000,5,3,1,macclesfield road macclesfield sa 5153
+51873101,11/08/2003,165000,3,1,1,2 boyaca court paralowie sa 5108
+52265102,13/12/2010,892000,5,1,2,370 seaview road henley beach sa 5022
+24355334,13/12/2010,892000,5,1,2,370 seaview road henley beach sa 5022
+53089402,21/07/2015,1150000,4,2,2,33 lockwood road erindale sa 5066
+52242382,24/06/2010,600000,4,2,2,33 lockwood road erindale sa 5066
+51315368,11/10/2001,225500,3,2,1,20 / 11 - 25 king street norwood sa 5067
+52121894,29/12/2007,450000,3,2,1,20 / 11 - 25 king street norwood sa 5067
+51379747,02/07/2002,183908,2,1,3,20 grace street goodwood sa 5034
+6637254,02/07/2002,32000,2,1,3,20 grace street goodwood sa 5034
+7722606,02/01/2008,557000,2,1,3,20 grace street goodwood sa 5034
+6607978,31/03/2006,220000,2,1,1,4 / 58 ormond avenue daw park sa 5041
+17837561,12/08/2008,273000,2,1,1,4 / 58 ormond avenue daw park sa 5041
+6607972,07/02/2003,135000,2,1,1,4 / 58 ormond avenue daw park sa 5041
+7288492,20/05/2003,67000,3,1,2,4 dittmar court goolwa beach sa 5214
+7740675,15/02/2008,240000,3,1,2,161 main north road clare sa 5453
+47498567,06/05/2008,145000,5,2,2,714 grand boulevard seaford meadows sa 5169
+52384683,21/11/2013,260000,4,2,2,22 camroc avenue prospect sa 5082
+52409948,30/06/2014,458000,4,2,2,22 camroc avenue prospect sa 5082
+6528812,24/10/1996,85000,2,1,1,3 / 264 fletcher road largs nth sa 5016
+18577056,24/06/2009,305000,2,1,1,3 / 264 fletcher road largs north sa 5016
+52001905,15/12/2005,235000,3,2,1,6 / 99 hillier road reynella sa 5161
+7684459,22/10/2007,188000,3,1,2,8 riverview drive paringa sa 5340
+52122410,04/01/2008,230000,2,1,1,6 / 32 boord street semaphore south sa 5019
+52002174,16/12/2005,205000,2,1,1,6 / 32 boord street semaphore south sa 5019
+7723990,04/01/2008,230000,2,1,1,6 / 32 boord street semaphore south sa 5019
+7161020,07/07/2003,119500,2,1,1,3 / 1 millard street mt gambier sa 5290
+51171417,15/01/1999,88000,3,1,2,18 mclay street naracoorte sa 5271
+52378361,26/09/2013,866000,3,1,1,33 kneebone street goodwood sa 5034
+43430318,26/09/2013,866000,3,1,4,33 kneebone street goodwood sa 5034
+52042966,08/09/2006,91000,4,2,2,1 eton drive andrews farm sa 5114
+14510442,08/01/2008,370000,4,2,2,1 eton drive andrews farm sa 5114
+52104415,20/09/2007,232000,3,2,1,12 halifax avenue parafield gardens sa 5107
+43765669,20/11/2013,595000,4,2,2,114 burnbank way mount barker sa 5251
+52193826,25/06/2009,310000,3,1,3,22 harrow road reynella sa 5161
+51900382,20/01/2004,358000,3,2,2,47a fifth avenue st peters sa 5069
+52392356,30/01/2014,830000,3,2,2,47a fifth avenue st peters sa 5069
+52021417,19/04/2006,392000,3,2,2,47a fifth avenue st peters sa 5069
+52410145,01/07/2014,385000,3,2,3,12 dorrien avenue woodcroft sa 5162
+6948614,21/10/2005,406555,3,2,2,32a chambers street henley beach sa 5022
+51266787,01/12/2000,155000,3,1,2,45 landseer crescent dernancourt sa 5075
+7664082,07/09/2007,391250,3,1,2,45 landseer crescent dernancourt sa 5075
+51832777,30/12/2002,270000,2,1,2,20 barnes avenue magill sa 5072
+27811328,21/04/2011,530000,2,1,2,20 barnes avenue magill sa 5072
+18294016,12/03/2009,531000,4,2,2,26 woodford court sheidow park sa 5158
+52192918,19/06/2009,1150000,4,3,4,10a james road belair sa 5052
+18293564,12/03/2009,335000,5,2,1,41 somerset avenue redwood park sa 5097
+51085070,28/01/1997,139000,3,2,2,6 turtur court golden grove sa 5125
+51083855,15/01/1997,158100,3,2,3,38 avenue road cumberland park sa 5041
+52122785,09/01/2008,418000,3,1,2,21 weroona avenue park holme sa 5043
+51872010,05/08/2003,183000,3,1,2,52 pauls drive valley view sa 5093
+6530108,14/06/2002,151000,3,1,3,36 swansea street largs nth sa 5016
+51123739,15/12/1997,75000,3,1,1,28 wirrinilla drive macclesfield sa 5153
+7259855,19/04/1993,74000,3,1,1,160 shepherdson road parafield gdns sa 5107
+7259859,30/11/2000,74500,3,1,1,160 shepherdson road parafield gdns sa 5107
+7662403,30/08/2007,210000,3,1,1,160 shepherdson road parafield gardens sa 5107
+52213128,16/11/2009,390000,3,2,1,53 bristol terrace hillcrest sa 5086
+52340662,02/11/2012,420000,3,2,2,1 / 28 claremont road golden grove sa 5125
+51220623,07/01/2000,56950,3,2,1,13 ryan place ridleyton sa 5008
+7642979,12/07/2007,295000,3,2,2,11 yates avenue hayborough sa 5211
+33469170,06/06/2011,285000,3,1,1,3 / 35a hoods road northfield sa 5085
+51308834,30/08/2001,150000,4,2,3,6 sheridan court salisbury heights sa 5109
+52188668,20/05/2009,200000,3,1,3,92 moonta-wallaroo road north moonta sa 5558
+52340636,01/11/2012,210000,3,1,3,92 moonta-wallaroo road north moonta sa 5558
+51167524,11/12/1998,145000,4,2,4,6 mildren court greenwith sa 5125
+7713249,06/12/2007,362000,4,2,2,6 mildren court greenwith sa 5125
+7295064,26/05/2003,260000,3,3,2,15 ventura place hindmarsh id sa 5214
+51857990,26/05/2003,260000,3,3,4,15 ventura place hindmarsh island sa 5214
+52086872,15/06/2007,219500,2,1,2,17 / 285 - 287 tapleys hill road seaton sa 5023
+6915636,17/12/1993,109000,2,1,1,17 / 285 - 287 tapleys hill road seaton sa 5023
+51964059,30/03/2005,280000,3,1,4,137 radford road seppeltsfield sa 5355
+52284890,07/06/2011,465000,3,1,4,137 radford road seppeltsfield sa 5355
+51891328,25/11/2003,190000,4,1,2,129 narangga terrace moonta bay sa 5558
+7333890,21/12/2004,830000,2,1,1,42 eighth street gawler south sa 5118
+7317976,12/05/2003,717000,2,1,1,42 eighth street gawler south sa 5118
+52410098,30/06/2014,171000,2,1,1,3 / 42 eighth street gawler south sa 5118
+6585100,29/03/1993,23333,3,1,2,22 telfer street ferryden park sa 5010
+52243075,28/06/2010,535000,3,2,2,60 tolley crescent brooklyn park sa 5032
+19722970,28/06/2010,535000,3,2,2,60 tolley crescent brooklyn park sa 5032
+6863643,09/04/2001,70000,3,2,2,60 tolley circuit brooklyn park sa 5032
+18728789,24/06/2009,202000,4,2,2,87 douglas drive mawson lakes sa 5095
+52979352,29/05/2015,610000,3,1,2,19 ellen street semaphore sa 5019
+38485195,03/11/2012,525000,3,1,3,19 ellen street semaphore sa 5019
+7164720,18/10/2001,123000,2,1,1,densley avenue border town sa 5268
+52340766,02/11/2012,189000,1,1,1,202 / 6 - 8 wirra drive new port sa 5015
+52160353,15/10/2008,319900,1,1,1,202 / 6 - 8 wirra drive new port sa 5015
+52402052,23/04/2014,196000,1,1,1,202 / 6 - 8 wirra drive new port sa 5015
+52340757,02/11/2012,400000,3,1,2,2 florence street west croydon sa 5008
+52340087,28/10/2012,230000,3,1,1,2 ninnes grove angaston sa 5353
+51950462,17/12/2004,233000,3,1,1,10 sharon road ridgehaven sa 5097
+52284975,08/06/2011,315000,3,1,1,10 sharon road ridgehaven sa 5097
+52532039,27/05/2015,170000,4,1,2,8 market street burra sa 5417
+52340457,31/10/2012,457500,3,1,2,18 tucker street south brighton sa 5048
+52341596,14/11/2012,402500,3,1,1,3 / 55 fifth avenue ascot park sa 5043
+50926332,18/06/1993,18600,3,1,1,5 garland court noarlunga downs sa 5168
+52378196,24/09/2013,242000,3,1,1,5 garland court noarlunga downs sa 5168
+7513016,21/08/2003,153000,3,1,1,5 garland court noarlunga downs sa 5168
+51313757,28/09/2001,142500,3,2,3,2 kernutt court mount barker sa 5251
+7365141,04/02/1993,28500,3,2,3,2 kernutt court mt barker sa 5251
+38396749,12/11/2012,365000,4,1,2,41 gliddon street rosewater sa 5013
+18383390,22/04/2009,160000,4,1,2,41 gliddon street rosewater sa 5013
+38337297,31/10/2012,323000,3,1,2,8 melbourne street sturt sa 5047
+52340936,06/11/2012,499000,4,2,5,3 nicolle avenue hawthorndene sa 5051
+51367610,12/08/2002,129000,2,1,1,8 / 26 clifton street camden park sa 5038
+52341354,09/11/2012,365000,5,2,6,9 verdun road murray bridge sa 5253
+52095174,26/07/2007,538500,4,2,3,3 turner avenue plympton sa 5038
+52342262,20/11/2012,355000,3,1,2,14 oratava avenue bridgewater sa 5155
+52341585,14/11/2012,127500,3,1,2,2 tatiara terrace bordertown sa 5268
+38421488,14/11/2012,127500,4,1,1,2 tatiara terrace bordertown sa 5268
+52061958,10/01/2007,235000,4,2,2,407 north east road hillcrest sa 5086
+52341793,15/11/2012,90000,3,1,2,33 tenth street port pirie west sa 5540
+38485473,15/11/2012,90000,3,1,2,33 tenth street port pirie west sa 5540
+52410383,03/07/2014,330000,3,1,1,15 gabriella victoria avenue woodcroft sa 5162
+51851820,17/04/2003,250000,3,1,4,8 janet street seaton sa 5023
+51879165,16/09/2003,261000,3,1,4,8 janet street seaton sa 5023
+38421558,12/11/2012,380000,4,2,2,17 blackwood crescent morphett vale sa 5162
+52342261,20/11/2012,690000,4,2,3,43 - 45 stone hut circuit encounter bay sa 5211
+51107974,31/07/1997,34950,4,2,3,43 - 45 stone hut circuit encounter bay sa 5211
+7274720,08/10/2001,65000,4,2,3,43 - 45 stone hut circuit encounter bay sa 5211
+52341510,13/11/2012,1325000,3,2,2,183 south brighton sa 5048
+7734604,30/01/2008,1400000,3,2,2,183 esplanade south brighton sa 5048
+52390510,13/01/2014,353000,2,2,1,30c the strand mawson lakes sa 5095
+7726993,11/01/2008,304500,2,1,1,1 / 14 clifton street camden park sa 5038
+52342430,22/11/2012,345000,3,1,2,11 nioka road dernancourt sa 5075
+7524192,26/06/2003,350000,4,2,2,23 spy glass hill circuit seaford rise sa 5169
+52342410,22/11/2012,271000,3,1,1,4 lyle street morphett vale sa 5162
+52378485,26/09/2013,558000,2,2,1,9 / 3 mirani court west lakes shore sa 5020
+43430745,26/09/2013,558000,2,2,1,9 / 3 mirani court west lakes shore sa 5020
+18543513,17/06/2009,560000,2,2,1,9 / 3 mirani court west lakes shore sa 5020
+52124152,17/01/2008,387500,2,1,2,115 marine parade port vincent sa 5581
+45708216,15/05/2014,0,3,2,1,567a milne road tea tree gully sa 5091
+7262257,28/10/2004,140000,4,2,2,5 bimini crescent mawson lakes sa 5095
+52342526,22/11/2012,455000,3,1,1,2 / 65 lockwood road burnside sa 5066
+6824638,31/07/2002,280000,3,1,2,2 / 65 lockwood road burnside sa 5066
+52050608,02/11/2006,265000,3,1,2,1 hillman drive nairne sa 5252
+17980858,02/11/2006,265000,3,2,2,1 hillman drive nairne sa 5252
+7047984,15/05/1998,85000,3,1,1,12 tea tree drive craigmore sa 5114
+6844966,08/09/2005,494500,2,2,3,1 / 220 greenhill road eastwood sa 5063
+18501818,01/06/2009,595000,2,2,3,1 / 220 greenhill road eastwood sa 5063
+51052998,20/03/1996,67000,3,2,4,63 mcleod road middleton sa 5213
+51372905,16/09/2002,63000,3,1,1,97 princes highway tailem bend sa 5259
+7462964,16/09/2002,63000,3,1,1,97 princes highway tailem bend sa 5260
+7732517,24/01/2008,302000,3,1,2,10 pangari drive fairview park sa 5126
+52251157,02/09/2010,300000,3,1,5,5 guildford close salisbury heights sa 5109
+7208563,30/07/2003,171000,3,1,5,5 guildford close salisbury heights sa 5109
+43515559,02/10/2013,350000,4,2,3,14 parkview avenue salisbury downs sa 5108
+7727656,14/01/2008,430000,4,2,5,7 capella street port broughton sa 5522
+52378866,27/09/2013,435000,3,1,1,9 castlebar road lockleys sa 5032
+43472225,27/09/2013,435000,3,1,1,9 castlebar road lockleys sa 5032
+52379208,01/10/2013,359000,3,1,2,43a whyte street peterhead sa 5016
+51943203,03/11/2004,335000,2,1,1,2 / 517 anzac highway glenelg north sa 5045
+43472654,01/10/2013,400000,2,1,1,2 / 517 anzac highway glenelg north sa 5045
+51336586,14/02/2002,190000,3,1,2,14 clover court wynn vale sa 5127
+13685199,04/04/2008,330000,3,1,2,14 clover court wynn vale sa 5127
+7005629,14/02/2002,190000,3,1,2,14 clover court wynn vale sa 5127
+7005615,29/06/1998,127000,3,1,2,14 clover court wynn vale sa 5127
+7005618,13/04/2005,249000,3,1,2,14 clover court wynn vale sa 5127
+52254990,28/09/2010,665000,3,3,2,8 muirfield avenue stirling sa 5152
+17998077,01/03/2007,250000,2,1,1,1 / 319 tapleys hill road seaton sa 5023
+52378661,27/09/2013,132000,4,2,2,amaretti way munno para west sa 5115
+52338280,08/10/2012,676000,3,2,1,4 thames street clarence park sa 5034
+38261317,08/10/2012,676000,3,2,2,4 thames street clarence park sa 5034
+52379201,01/10/2013,480000,2,1,2,2 charlotte place norwood sa 5067
+51896654,19/12/2003,267500,2,1,2,2 charlotte place norwood sa 5067
+7264811,03/05/2004,85000,3,2,2,28 lord howe crescent mawson lakes sa 5095
+51284144,30/03/2001,165000,4,2,4,13 bennett close aberfoyle park sa 5159
+51220691,10/01/2000,97500,5,2,4,83 wireless road mount gambier sa 5290
+51244097,19/06/2000,461000,5,2,1,16 fern avenue fullarton sa 5063
+43577191,09/10/2013,1150000,5,2,1,16 fern avenue fullarton sa 5063
+43577693,27/09/2013,360000,3,1,4,4 hall court woodville north sa 5012
+43693074,30/09/2013,12000,3,1,3,3 haynes street goolwa beach sa 5214
+51867657,10/07/2003,159000,3,1,1,25 telford crescent modbury heights sa 5092
+51101069,06/06/1997,87500,3,1,1,25 telford crescent modbury heights sa 5092
+7225229,21/11/1994,89950,3,1,5,19 goddard drive salisbury park sa 5109
+43472330,01/10/2013,270000,3,1,3,19 goddard drive salisbury park sa 5109
+52143068,28/05/2008,388000,4,2,2,22 cosgrove crescent old reynella sa 5161
+52137371,15/04/2008,550000,3,2,6,10 woodlake avenue west lakes sa 5021
+52136254,08/04/2008,250000,3,1,1,5 marsden place huntfield heights sa 5163
+7512306,25/05/2006,178000,3,1,1,5 marsden place huntfield heights sa 5163
+51959931,02/03/2005,195000,3,1,2,28 milton street tea tree gully sa 5091
+52136130,07/04/2008,280000,3,1,2,28 milton street tea tree gully sa 5091
+7000614,02/03/2005,195000,3,1,1,28 milton street tea tree gully sa 5091
+52137026,11/04/2008,277500,2,1,1,1 / 2 mills street clarence park sa 5034
+51969833,11/05/2005,220770,2,1,1,1 / 2 mills street clarence park sa 5034
+51229561,10/03/2000,207500,2,2,2,16 d'erlanger avenue nailsworth sa 5083
+52382620,01/11/2013,530000,2,2,2,16 d'erlanger avenue nailsworth sa 5083
+51944382,11/11/2004,174000,3,1,3,390 senate road risdon park south sa 5540
+18013658,19/06/2007,135000,2,1,1,13 / 110 clayson road salisbury east sa 5109
+52167592,11/12/2008,405000,3,2,2,20a gambia avenue hampstead gardens sa 5086
+52382689,04/11/2013,440000,3,2,2,20a gambia avenue hampstead gardens sa 5086
+52130047,28/02/2008,375000,4,2,2,28 cormorant drive hewett sa 5118
+51007822,09/02/1995,77000,3,2,2,20 glenberrie place hawthorndene sa 5051
+7746436,29/02/2008,400000,3,1,2,57 northfield road northfield sa 5085
+52278334,15/04/2011,253000,3,1,2,14 bartholomew avenue lobethal sa 5241
+43808876,25/11/2013,320000,3,1,2,14 bartholomew avenue lobethal sa 5241
+52382781,05/11/2013,345000,3,2,2,22 gondola grove para hills sa 5096
+7201762,22/11/1999,89000,3,2,1,22 gondola grove para hills sa 5096
+7126608,14/06/2005,82000,3,1,1,7 seventh street pt pirie west sa 5540
+51337332,20/02/2002,120500,4,1,2,7 rothwell street morphett vale sa 5162
+51327462,17/12/2001,132000,2,1,1,21 gambia avenue hampstead gardens sa 5086
+52345909,19/12/2012,206000,3,1,4,7 davison street naracoorte sa 5271
+52238393,26/05/2010,192000,3,1,4,7 davison street naracoorte sa 5271
+51107387,25/07/1997,5000,3,1,4,7 davison street naracoorte sa 5271
+51030116,18/08/1995,5000,3,1,4,7 davison street naracoorte sa 5271
+7399812,18/08/1995,5000,3,1,6,7 davison street naracoorte sa 5271
+7407053,25/07/1997,5000,3,1,6,7 davison street naracoorte sa 5271
+19600318,26/05/2010,192000,3,1,6,7 davison street naracoorte sa 5271
+7569877,15/12/1995,27600,3,1,4,15 doering street tanunda sa 5352
+7569882,14/06/2001,172000,3,1,4,15 doering street tanunda sa 5352
+52130832,29/02/2008,250000,1,1,1,2 / 93 alexandra avenue toorak gardens sa 5065
+18339719,25/03/2009,255288,1,1,1,2 / 93 alexandra avenue toorak gardens sa 5065
+52380366,14/10/2013,410000,3,1,1,42 dampier avenue flinders park sa 5025
+51865302,27/06/2003,240000,3,1,2,6 eden avenue bellevue heights sa 5050
+51349089,26/04/2002,365000,3,2,2,4 mawson close tennyson sa 5022
+52156636,11/09/2008,240000,4,1,4,3 easton road port lincoln sa 5606
+52129593,26/02/2008,470000,4,2,2,33 morford crescent sheidow park sa 5158
+7744518,26/02/2008,470000,4,2,2,33 morford crescent sheidow park sa 5158
+7703115,23/11/2007,400000,3,2,2,16 drummond avenue findon sa 5023
+51224204,02/02/2000,170000,3,2,1,11 francis avenue glengowrie sa 5044
+6681130,31/01/1995,128000,3,2,1,11 francis avenue glengowrie sa 5044
+7746676,29/02/2008,525000,3,2,1,11 francis avenue glengowrie sa 5044
+51824349,15/11/2002,34500,3,2,3,35 jacaranda street murray bridge sa 5253
+17279483,03/06/2008,290000,3,2,3,35 jacaranda street murray bridge sa 5253
+51033356,18/09/1995,66000,4,2,2,15 bradshaw avenue crafers sa 5152
+51910284,25/03/2004,510000,4,2,2,15 bradshaw avenue crafers sa 5152
+7110096,18/09/1995,66000,4,2,2,15 bradshaw avenue crafers sa 5152
+14451650,11/04/2008,645000,4,2,2,15 bradshaw avenue crafers sa 5152
+14449459,11/04/2008,645000,4,2,2,15 bradshaw avenue crafers sa 5152
+51175886,22/02/1999,200586,4,3,2,21 marlborough street brighton sa 5048
+52143274,29/05/2008,950000,4,3,2,21 marlborough street brighton sa 5048
+51872535,07/08/2003,274000,4,2,1,12 harley street ethelton sa 5015
+43842554,27/11/2013,448000,4,2,2,12 harley street ethelton sa 5015
+52144401,06/06/2008,175000,3,1,2,10 nineteenth street gawler south sa 5118
+17278248,06/06/2008,175000,3,1,2,10 nineteenth street gawler south sa 5118
+7625881,01/06/2007,135000,3,1,2,10 nineteenth street gawler south sa 5118
+50980306,20/05/1994,58500,2,1,2,30 / 60 booth avenue morphett vale sa 5162
+17278481,03/06/2008,190000,2,1,1,30 / 60 booth avenue morphett vale sa 5162
+7495983,20/05/1994,58500,2,1,1,30 / 60 booth avenue morphett vale sa 5162
+52144406,06/06/2008,293000,2,1,1,1 / 3 crestview place wynn vale sa 5127
+51376777,11/10/2002,80000,2,1,1,5 / 360 wright road para vista sa 5093
+13607460,06/03/2008,292000,3,1,2,7 cliff avenue port noarlunga south sa 5167
+7514617,10/11/2005,235000,3,1,2,7 cliff avenue port noarlunga sth sa 5167
+7001631,26/10/2005,250000,3,1,1,8 malaga crescent wynn vale sa 5127
+7001642,02/01/1998,98750,3,1,1,8 malaga crescent wynn vale sa 5127
+13600090,06/03/2008,270000,3,1,1,19 woodland court grange sa 5022
+7521693,30/11/2001,125000,3,1,1,3 james street reynella sa 5161
+13599548,06/03/2008,256000,3,1,2,53 viscount slim avenue whyalla norrie sa 5608
+7484649,18/05/1994,108000,3,1,2,53 viscount slim avenue whyalla norrie sa 5608
+51266018,28/11/2000,109500,1,1,1,1 / 83 lipson street port adelaide sa 5015
+14900382,30/05/2008,340000,1,1,1,1 / 83 lipson street port adelaide sa 5015
+51978995,06/07/2005,90000,3,2,1,50a durham terrace ferryden park sa 5010
+51982344,29/07/2005,194000,3,1,3,20 warrigal street para hills sa 5096
+52380695,17/10/2013,278010,3,1,3,20 warrigal street para hills sa 5096
+43597807,17/10/2013,278010,3,1,3,20 warrigal street para hills sa 5096
+51067434,01/08/1996,200000,3,2,4,19 john street goodwood sa 5034
+52380907,18/10/2013,170000,3,1,2,21 hawdon street barmera sa 5345
+7443966,16/06/1994,75000,3,1,2,21 hawdon street barmera sa 5345
+52399029,28/03/2014,460000,5,1,2,1 oxford street woodville park sa 5011
+18206845,30/01/2009,487500,4,2,5,10 uplands street mount barker sa 5251
+43657582,18/10/2013,785000,4,1,2,18 brooklyn avenue glenelg north sa 5045
+6977913,27/11/1997,97500,3,1,1,8 perth avenue valley view sa 5093
+51919531,27/05/2004,36500,3,2,1,18 murray price drive renmark sa 5341
+7429203,26/05/2003,27650,3,1,1,18 murray price drive renmark sa 5341
+7429195,27/05/2004,36500,3,1,1,18 murray price drive renmark sa 5341
+51035434,06/10/1995,124500,4,2,2,10 chetwynd street west beach sa 5024
+6952335,06/10/1995,124500,4,2,2,10 chetwynd street west beach sa 5024
+18013093,07/06/2007,0,3,2,2,23 quondong avenue parafield gardens sa 5107
+33874575,09/08/2011,235000,3,2,2,23 quondong avenue parafield gardens sa 5107
+52370810,15/07/2013,1400000,4,2,2,57 myall avenue erindale sa 5066
+52382597,01/11/2013,745000,3,2,2,8a bardini street gilberton sa 5081
+52191686,11/06/2009,275000,2,1,1,5 / 12 henry street plympton sa 5038
+18578493,11/06/2009,275000,2,1,2,5 / 12 henry street plympton sa 5038
+18007997,04/05/2007,385000,2,1,2,91 percy street prospect sa 5082
+7743893,22/02/2008,300000,3,2,2,4 comaum avenue mount gambier sa 5290
+43598154,18/10/2013,650000,4,2,2,22 fergusson avenue craigburn farm sa 5051
+51180368,25/03/1999,133000,3,1,1,1 cyprus grove flinders park sa 5025
+6907934,25/03/1999,133000,3,1,1,1 cyprus grove flinders park sa 5025
+6666205,28/06/2005,180000,2,1,1,8 beaconsfield terrace ascot park sa 5043
+43021496,15/07/2013,395000,3,1,6,31 exmouth road exeter sa 5019
+43597675,18/10/2013,825000,4,2,2,13 bayview crescent beaumont sa 5066
+52297406,10/10/2011,520000,3,2,2,4 / 14 church street magill sa 5072
+52370944,17/07/2013,515000,3,2,2,4 / 14 church street magill sa 5072
+52146434,23/06/2008,1185000,4,3,3,108 sixth avenue joslin sa 5070
+52104584,20/09/2007,167000,3,1,2,8 masters street riverton sa 5412
+7669978,20/09/2007,167000,3,1,2,8 masters street riverton sa 5412
+52146185,20/06/2008,435000,4,2,2,42 the strand mawson lakes sa 5095
+52060765,28/12/2006,91000,4,2,2,42 the strand mawson lakes sa 5095
+17989182,28/12/2006,91000,4,2,2,the strand mawson lakes sa 5095
+51225821,16/02/2000,80000,4,2,2,69 edward street ottoway sa 5013
+51845053,14/03/2003,65000,4,2,2,3 greenlees parade aldinga beach sa 5173
+43885152,05/12/2013,325000,4,2,2,3 greenlees parade aldinga beach sa 5173
+51274646,24/01/2001,105000,3,1,1,11 columbia street paralowie sa 5108
+7246798,17/09/1997,23900,3,1,1,11 columbia street paralowie sa 5108
+13603586,07/03/2008,558000,3,1,1,5 strathmore avenue tranmere sa 5073
+52141767,16/05/2008,350000,4,2,8,293 naracoorte road bordertown sa 5268
+13686194,28/02/2008,254000,3,2,1,12 / 14 bradbury street parafield gardens sa 5107
+7748197,28/02/2008,254000,3,2,1,12 / 14 bradbury street parafield gardens sa 5107
+52380501,16/10/2013,150000,3,1,1,46 tobruk terrace loxton sa 5333
+52143674,30/05/2008,109500,4,2,3,9 caronia cove sellicks beach sa 5174
+52088913,25/06/2007,82000,4,2,3,11 calvary road mount gambier sa 5290
+52380891,18/10/2013,450000,3,2,2,50 beatty avenue hillcrest sa 5086
+51307694,22/08/2001,136000,2,1,1,50 woodlands terrace edwardstown sa 5039
+52146468,23/06/2008,360000,2,1,1,50 woodlands terrace edwardstown sa 5039
+43885451,05/12/2013,235000,3,1,1,72 strathaird boulevard smithfield sa 5114
+17699640,24/06/2008,460000,3,1,4,127 stuart road roxby downs sa 5725
+17676193,25/06/2008,340000,3,1,1,22 park valley drive highbury sa 5089
+6964132,08/07/2003,166500,3,1,1,22 park valley drive highbury sa 5089
+52386762,06/12/2013,579000,5,2,2,1 unicorn street golden grove sa 5125
+43958695,10/12/2013,385000,4,1,2,14 lister avenue salisbury heights sa 5109
+52146486,23/06/2008,710000,3,3,2,3 southcott walk adelaide sa 5000
+52263766,02/12/2010,349000,3,2,2,23 tangerine court aldinga beach sa 5173
+52124294,17/01/2008,92000,3,2,2,23 tangerine court aldinga beach sa 5173
+18436828,30/04/2009,320000,3,2,2,23 tangerine court aldinga beach sa 5173
+24330486,02/12/2010,349000,3,2,2,23 tangerine court aldinga beach sa 5173
+43981589,12/12/2013,225000,3,1,3,16 troutbeck crescent huntfield heights sa 5163
+51222509,20/01/2000,50000,3,2,2,31 hender avenue klemzig sa 5087
+43923555,11/12/2013,380000,3,2,2,31 hender avenue klemzig sa 5087
+52100625,28/08/2007,390000,3,1,1,39 wynette street pennington sa 5013
+52386580,06/12/2013,280000,3,1,1,50 aldinga road willunga sa 5172
+52386950,10/12/2013,294500,4,2,1,50 reusch drive nuriootpa sa 5355
+52146775,25/06/2008,210000,3,1,1,6 hawke place murray bridge sa 5253
+7281219,01/05/2001,122500,5,3,6,144 liverpool road goolwa sa 5214
+52336306,18/09/2012,490000,3,1,1,6a waterfall terrace burnside sa 5066
+52336378,19/09/2012,567500,5,3,4,12 saratoga drive novar gardens sa 5040
+52019840,07/04/2006,285000,2,1,1,2 / 13 coralie street plympton sa 5038
+52022706,27/04/2006,252000,4,1,1,22 gordon street semaphore park sa 5019
+52336664,21/09/2012,400000,4,2,2,13 enginehouse drive sheidow park sa 5158
+7551497,05/11/2001,152000,2,1,1,10 / 18 new west road pt lincoln sa 5606
+17992379,16/01/2007,235000,2,1,1,10 / 18 new west road port lincoln sa 5606
+52093597,26/04/2007,255000,3,2,2,5 parken court noarlunga downs sa 5168
+7513466,18/07/2002,31950,3,2,1,5 parken court noarlunga downs sa 5168
+52146610,24/06/2008,700000,4,2,2,5525 copper coast highway wallaroo sa 5556
+52279264,21/04/2011,123500,3,2,1,22 miranda place seaford meadows sa 5169
+51931355,16/08/2004,196000,3,1,2,346 burton road paralowie sa 5108
+52380894,18/10/2013,447500,4,2,2,6 mariners drive surrey downs sa 5126
+52387218,11/12/2013,557500,4,2,3,31 calton road gawler east sa 5118
+52147067,26/06/2008,290000,3,1,2,5 melanie court paralowie sa 5108
+52025270,12/05/2006,145000,3,1,2,5 melanie court paralowie sa 5108
+43885045,10/12/2013,225000,3,1,2,20279a renmark avenue renmark south sa 5341
+52385242,27/11/2013,248000,3,1,2,35 carob crescent craigmore sa 5114
+17279623,28/02/2008,430000,2,1,1,2 / 608 anzac highway glenelg east sa 5045
+52249009,17/08/2010,160000,3,2,1,40 bimini crescent mawson lakes sa 5095
+52386710,06/12/2013,165000,3,2,1,40 bimini crescent mawson lakes sa 5095
+34102286,16/09/2011,350000,3,2,4,90 barramundi drive hallett cove sa 5158
+52337170,27/09/2012,411000,3,1,2,7 panorama drive athelstone sa 5076
+6800433,17/04/2003,220000,3,1,2,7 panorama drive athelstone sa 5076
+43923400,11/12/2013,187000,2,1,2,25 haigh street port lincoln sa 5606
+51848697,02/04/2003,143000,2,1,1,25 haigh street port lincoln sa 5606
+52337216,27/09/2012,285000,3,1,1,13 leonard street gulfview heights sa 5096
+52093600,03/05/2007,292000,3,2,2,4 gilchrist close greenwith sa 5125
+18008704,03/05/2007,292000,3,2,2,4 gilchrist close greenwith sa 5125
+52619306,11/06/1999,80000,2,1,2,1 / 36 - 38 aldridge terrace marleston sa 5033
+52336712,21/09/2012,266000,2,1,2,1 / 38 aldridge terrace marleston sa 5033
+51317624,25/10/2001,122000,4,1,2,17 bogota crescent paralowie sa 5108
+43884971,09/12/2013,284000,4,1,2,17 bogota crescent paralowie sa 5108
+7676808,03/10/2007,268500,4,1,4,17 bogota crescent paralowie sa 5108
+50946319,11/11/1993,25000,2,1,4,12 archibald street port germein sa 5495
+52336951,25/09/2012,299000,3,1,6,1881 jervois road woods point sa 5253
+51843374,06/03/2003,240000,4,2,4,9 acacia street risdon park south sa 5540
+52335999,13/09/2012,325000,4,2,4,9 acacia street risdon park south sa 5540
+7131039,14/05/1997,180000,3,2,2,9 acacia street risdon park south sa 5540
+18728005,26/08/2009,645000,3,1,1,43 gower street glenelg east sa 5045
+51884454,16/10/2003,390000,3,2,4,55 matthew road nairne sa 5252
+52098499,15/08/2007,425000,3,2,2,3 / 91 marian road payneham south sa 5070
+51175067,15/02/1999,28500,4,2,2,7 parr street nairne sa 5252
+52316329,23/04/2012,440000,4,2,2,7 parr street nairne sa 5252
+52173555,01/02/2009,415000,4,2,2,7 parr street nairne sa 5252
+7645592,19/07/2007,350000,4,2,2,7 parr street nairne sa 5252
+36483260,23/04/2012,440000,4,2,2,7 parr street nairne sa 5252
+38282036,04/10/2012,255000,3,1,2,6 kimba road para hills sa 5096
+52337423,27/09/2012,480000,3,2,2,45a garfield avenue kurralta park sa 5037
+38153223,27/09/2012,480000,3,2,2,45a garfield avenue kurralta park sa 5037
+43582993,01/11/2000,107000,3,1,1,1a commercial street nairne sa 5252
+38153089,02/10/2012,280000,3,1,1,1a commercial street nairne sa 5252
+43884570,06/12/2013,495000,3,2,3,49 devonport terrace prospect sa 5082
+50911080,25/02/1993,119000,3,1,1,4 iona street broadview sa 5083
+7740278,11/01/2007,270000,3,1,1,4 iona street broadview sa 5083
+52338105,05/10/2012,338000,4,2,2,12 tiller court salisbury north sa 5108
+7233978,28/05/2004,92000,4,2,2,12 tiller court salisbury nth sa 5108
+6685733,26/09/2001,266500,4,2,2,50 hamilton avenue warradale sa 5046
+38125529,26/09/2012,530000,4,2,2,50 hamilton avenue warradale sa 5046
+52337797,02/10/2012,208000,4,1,2,36 bay road moonta bay sa 5558
+51903978,12/02/2004,168000,4,1,2,36 bay road moonta bay sa 5558
+38152879,02/10/2012,208000,4,1,2,36 bay road moonta bay sa 5558
+51177756,05/03/1999,145000,3,2,1,44 oxford circuit newton sa 5074
+38125961,18/09/2012,3775000,3,2,1,44 oxford circuit newton sa 5074
+7655121,15/08/2007,360000,3,2,1,44 oxford circuit newton sa 5074
+51868037,11/07/2003,163000,3,1,2,10 mockridge court paralowie sa 5108
+17986668,28/09/2006,376000,3,2,2,208a montacute road rostrevor sa 5073
+52238829,28/05/2010,680000,4,2,2,80 martin court west lakes sa 5021
+25493736,31/03/2011,0,4,2,2,80 martin court west lakes sa 5021
+7644304,24/07/2007,500000,4,2,2,80 martin court west lakes sa 5021
+17653129,20/06/2008,470000,3,1,4,43 adelaide terrace ascot park sa 5043
+52336849,24/09/2012,185000,3,1,2,5 anderson street elizabeth east sa 5112
+7645049,20/07/2007,210000,2,2,3,22 mcewin street whyalla playford sa 5600
+6965703,06/10/2000,123000,4,1,1,41 balmoral road dernancourt sa 5075
+18274931,04/03/2009,360000,4,1,1,41 balmoral road dernancourt sa 5075
+18266520,26/02/2009,237500,3,1,1,4 murndal court mount gambier sa 5290
+52036895,27/07/2006,116000,3,1,2,86 duncan street whyalla playford sa 5600
+52251414,03/09/2010,166500,3,1,2,86 duncan street whyalla playford sa 5600
+18030915,22/10/2008,360000,2,1,1,321 / 29 colley terrace glenelg sa 5045
+52176522,27/02/2009,152000,3,1,2,17 drury street willaston sa 5118
+38152769,28/09/2012,625000,4,2,2,40 jerilderie drive happy valley sa 5159
+52199766,05/08/2009,247500,3,1,1,45 causby crescent willaston sa 5118
+52177179,05/03/2009,901000,3,2,1,27 dunluce avenue brighton sa 5048
+18274845,05/03/2009,901000,3,2,4,27 dunluce avenue brighton sa 5048
+52176691,27/02/2009,335000,3,1,2,51 robbie drive reynella east sa 5161
+18266033,27/02/2009,335000,3,1,2,51 robbie drive reynella east sa 5161
+52078959,27/04/2007,230000,2,1,1,10 / 576 seaview road grange sa 5022
+45594779,01/05/2014,332000,3,1,1,40 baxter avenue surrey downs sa 5126
+18245813,25/02/2009,228000,3,1,4,7 douglas road salisbury east sa 5109
+52176471,26/02/2009,450000,3,1,1,302a cross road clarence park sa 5034
+52337366,27/09/2012,540000,4,3,2,60 barton circuit mount barker sa 5251
+38126161,27/09/2012,540000,4,3,4,60 barton circuit mount barker sa 5251
+17843607,12/09/2008,520000,4,3,4,60 barton circuit mount barker sa 5251
+52177169,05/03/2009,219000,3,1,1,22 shalamar crescent mount gambier sa 5290
+25493279,25/03/2011,0,3,1,1,22 shalamar crescent mount gambier sa 5290
+52020535,12/04/2006,210000,3,1,1,22 shalamar crescent mount gambier sa 5290
+52091523,05/07/2007,288000,2,1,2,4 / 12 braeside avenue magill sa 5072
+45659136,04/05/2014,342500,2,1,2,4 / 12 braeside avenue magill sa 5072
+17980442,24/10/2006,260000,3,1,2,141 long street queenstown sa 5014
+17978160,24/10/2006,260000,3,1,2,141 long street queenstown sa 5014
+52177558,06/03/2009,367000,3,1,2,61 magdalene terrace pasadena sa 5042
+6613297,09/04/1999,100000,3,1,2,61 magdalene terrace pasadena sa 5042
+52176625,27/02/2009,92500,4,2,4,17 greenridge drive mount gambier sa 5290
+52403474,05/05/2014,315000,4,2,1,37 caloundra drive paralowie sa 5108
+7249832,17/09/1996,82000,4,2,4,37 caloundra drive paralowie sa 5108
+51241467,30/05/2000,24000,3,2,4,11 sorrento parade hayborough sa 5211
+7266551,30/05/2000,24000,3,2,2,11 sorrento parade hayborough sa 5211
+7633311,01/06/1995,10,4,2,1,20 osprey court coffin bay sa 5607
+45595110,30/04/2014,715000,4,2,1,20 osprey court coffin bay sa 5607
+50985692,24/08/1994,5250,3,1,3,third street frances sa 5262
+18266244,27/02/2009,265000,3,1,2,3 bunbury terrace valley view sa 5093
+18275049,03/03/2009,330000,3,2,3,15 brown street willaston sa 5118
+52115250,23/11/2007,245000,3,1,4,28 oakridge rise huntfield heights sa 5163
+52177543,06/03/2009,279000,3,1,4,28 oakridge rise huntfield heights sa 5163
+7511678,15/02/2001,83000,3,1,4,28 oakridge rise huntfield heights sa 5163
+6830228,20/07/1993,285000,3,2,2,1 howard terrace leabrook sa 5068
+7541615,15/05/2001,16500,3,2,2,1 treasure crescent tumby bay sa 5605
+52015211,22/03/2006,230000,3,3,2,8 hatwell court underdale sa 5032
+52024500,09/05/2006,340000,5,2,2,6 manor court grange sa 5022
+52402537,24/04/2014,396000,4,2,2,64 mahogany avenue highbury sa 5089
+51072714,26/09/1996,113000,4,2,2,5 cundy court williamstown sa 5351
+18275170,11/03/2009,230000,3,1,1,16 elmwood circuit blakeview sa 5114
+18233846,12/02/2009,485000,5,2,2,23 yarromie street hallett cove sa 5158
+52155836,04/09/2008,98950,4,2,7,32 loddon road avoca dell sa 5253
+18411039,24/04/2009,445000,4,2,2,13 peppermint close greenwith sa 5125
+52368875,27/06/2013,305000,3,2,2,8 minge way nuriootpa sa 5355
+52109436,18/10/2007,76500,3,2,2,8 minge way nuriootpa sa 5355
+42517650,27/06/2013,305000,3,2,2,8 minge way nuriootpa sa 5355
+7714803,18/10/2007,76500,3,2,2,minge way nuriootpa sa 5355
+51925887,05/07/2004,282500,3,1,2,35 sansom road semaphore park sa 5019
+18298258,18/02/2009,380000,3,1,2,35 sansom road semaphore park sa 5019
+6930899,27/09/1996,96000,3,1,2,35 sansom road semaphore park sa 5019
+6930918,05/07/2004,282500,3,1,2,35 sansom road semaphore park sa 5019
+18293615,12/02/2009,285000,3,1,2,15 tantara street ingle farm sa 5098
+52402735,24/04/2014,329000,4,1,6,10 lincoln avenue salisbury east sa 5109
+52090415,28/06/2007,515000,3,2,1,7 - 9 henry street port elliot sa 5212
+18294099,12/03/2009,562500,4,2,2,7 henry street port elliot sa 5212
+52093863,19/07/2007,310000,4,2,1,7 mcnamara street modbury heights sa 5092
+51909637,22/03/2004,126000,3,1,2,32 bonshor street millicent sa 5280
+51988418,14/09/2005,278500,3,2,2,7 / 1653 golden grove road greenwith sa 5125
+52174487,11/02/2009,245000,2,1,1,8 / 2 old beach road brighton sa 5048
+7679057,12/10/2007,229000,2,1,1,8 / 2 old beach road brighton sa 5048
+52212272,09/11/2009,400000,5,2,2,27 bolingbroke avenue devon park sa 5008
+18266495,18/02/2009,310000,3,1,2,27 fisherman bay road port broughton sa 5522
+52175034,17/02/2009,295000,2,1,2,2 / 45 harvey street nailsworth sa 5083
+45816172,09/05/2014,260000,3,2,1,14 shaw avenue richmond sa 5033
+13600085,03/03/2008,360000,4,2,2,8 sandpiper way hewett sa 5118
+52175153,18/02/2009,295500,2,1,1,7 / 41a addison road black forest sa 5035
+52403450,05/05/2014,920000,3,2,2,26 tennyson drive beaumont sa 5066
+52046270,29/09/2006,270000,3,1,1,51 mcewin avenue redwood park sa 5097
+52404051,12/05/2014,380000,3,1,1,51 mcewin avenue redwood park sa 5097
+52032351,28/06/2006,180000,3,1,2,29 barcelona road noarlunga downs sa 5168
+7512950,19/09/2003,165000,3,1,2,29 barcelona road noarlunga downs sa 5168
+52177030,04/03/2009,316000,3,1,1,7 james street darlington sa 5047
+52191253,05/06/2009,352000,3,1,1,46 beaconsfield terrace ascot park sa 5043
+51914380,21/04/2004,263000,3,1,1,46 beaconsfield terrace ascot park sa 5043
+6666184,21/04/2004,263000,3,1,1,46 beaconsfield terrace ascot park sa 5043
+51977596,29/06/2005,100,3,2,2,7 watkins street prospect sa 5082
+6547518,08/03/2006,365000,3,2,2,7 watkins street prospect sa 5082
+52105163,24/09/2007,74950,3,1,1,3 wayfarer mews smithfield sa 5114
+37611918,03/08/2012,0,3,1,2,19 albert avenue camden park sa 5038
+52178195,13/03/2009,407000,3,1,2,19 albert avenue camden park sa 5038
+18293908,13/03/2009,407000,3,1,2,19 albert avenue camden park sa 5038
+51935211,13/09/2004,140000,2,1,1,4 / 5a henley beach road henley beach south sa 5022
+51830640,16/12/2002,9500,3,1,5,125 the esplanade thompson beach sa 5501
+7067819,16/12/2002,9500,3,1,6,125 the esplanade thompson beach sa 5501
+52178568,16/03/2009,365000,3,2,2,2 / 39 thirza avenue mitchell park sa 5043
+52179114,18/03/2009,352000,3,1,3,18 kankanya street modbury north sa 5092
+18383648,18/03/2009,352000,3,1,3,18 kankanya street modbury north sa 5092
+52179489,19/03/2009,255000,3,1,1,25 park lake boulevard blakeview sa 5114
+7040916,25/11/1999,96000,3,1,1,25 park lake boulevard blakeview sa 5114
+7186081,16/09/2003,140500,2,1,2,west street auburn sa 5451
+52234596,23/04/2010,312000,4,2,3,18 wheatley street kapunda sa 5373
+52178560,16/03/2009,340000,3,1,3,18 bray street plympton park sa 5038
+18298856,17/03/2009,245000,3,2,1,7 trevorrow street mount gambier sa 5290
+51944853,16/11/2004,177500,3,1,4,200 brodie road morphett vale sa 5162
+7518932,13/11/2000,87000,3,1,3,200 brodie road morphett vale sa 5162
+51877102,03/09/2003,205000,3,1,1,5 / 52 west street ascot park sa 5043
+52221566,18/01/2010,550000,4,3,2,26a newcombe avenue west lakes shore sa 5020
+51981780,28/07/2005,230000,3,1,2,35 schumann street ingle farm sa 5098
+52177971,12/03/2009,850000,4,3,2,1 short avenue glenelg east sa 5045
+6726005,05/01/2006,399000,4,3,2,1 - 1 short avenue glenelg east sa 5045
+6501322,25/10/2002,365000,3,2,1,17 tapley street adelaide sa 5000
+51841825,27/02/2003,159000,2,1,1,4 / 137 anzac highway kurralta park sa 5037
+6728909,21/04/1998,111000,3,2,1,6 burden street glenelg nth sa 5045
+52059807,21/12/2006,340500,4,2,4,18 cheringar boulevard dernancourt sa 5075
+52177020,03/03/2009,310000,4,2,4,18 cheringar boulevard dernancourt sa 5075
+17988532,21/12/2006,340500,4,2,4,18 cheringar boulevard dernancourt sa 5075
+18274932,03/03/2009,310000,4,2,4,18 cheringar boulevard dernancourt sa 5075
+52179382,18/03/2009,100000,4,2,4,29 - 31 anniefield lane mount gambier sa 5290
+51376546,10/10/2002,58000,3,2,1,13 islington drive sheidow park sa 5158
+52191292,05/06/2009,382500,3,2,1,13 islington drive sheidow park sa 5158
+6696576,10/10/2002,58000,3,2,1,13 islington drive sheidow park sa 5158
+51039690,16/11/1995,8000,3,1,1,15 mcpharlin avenue redwood park sa 5097
+52337736,02/10/2012,250000,3,1,1,15 mcpharlin avenue redwood park sa 5097
+38152858,02/10/2012,250000,3,1,1,15 mcpharlin avenue redwood park sa 5097
+51865713,30/06/2003,157500,2,1,1,2 / 49 glengyle terrace glandore sa 5037
+52175048,17/02/2009,415000,5,2,4,6 blue court strathalbyn sa 5255
+51371560,05/09/2002,80000,3,1,3,387 grenfell road banksia park sa 5091
+38282015,12/10/2012,277000,3,1,1,387 grenfell road banksia park sa 5091
+51126327,08/01/1998,85000,3,1,1,8 dylan court woodcroft sa 5162
+51007874,10/02/1995,4000,3,1,1,8 dylan court woodcroft sa 5162
+52364981,06/06/2013,355000,2,1,4,245 south road mile end sa 5031
+42421459,06/06/2013,355000,2,1,2,245 south road mile end sa 5031
+17988487,19/12/2006,247000,2,1,2,245 south road mile end sa 5031
+52288056,01/07/2011,138000,3,2,2,12 the avenue blakeview sa 5114
+38282367,15/10/2012,310000,3,2,2,kerslake court strathalbyn sa 5255
+51843047,04/03/2003,152000,2,1,1,4 / 16 battams road marden sa 5070
+38261863,11/10/2012,259000,2,1,1,4 / 16 battams road marden sa 5070
+6644682,03/11/1998,314000,3,2,2,44 dover street malvern sa 5061
+17838597,13/08/2008,1235000,3,2,2,44 dover street malvern sa 5061
+38313681,09/10/2012,270000,4,1,2,48 mclennan avenue whyalla norrie sa 5608
+52340019,26/10/2012,375000,3,1,1,2 cash grove pasadena sa 5042
+6606965,28/04/1995,140000,3,1,1,2 cash grove pasadena sa 5042
+51101124,06/06/1997,44000,2,1,2,26 hodgeman road pennington sa 5013
+6893620,06/06/1997,44000,2,1,1,26 hodgeman road pennington sa 5013
+52054032,28/11/2006,420000,4,3,2,38 harris road vale park sa 5081
+52344588,10/12/2012,850000,3,2,3,19 leader avenue toorak gardens sa 5065
+51326234,12/12/2001,23000,4,2,2,12 edward street clare sa 5453
+51198247,30/07/1999,104000,2,1,1,5 / 4 william street clarence park sa 5034
+6634093,05/05/1994,98500,2,1,1,5 / 4 william street clarence park sa 5034
+51931877,19/08/2004,500000,4,3,6,65 berry road jupiter creek sa 5153
+52344654,11/12/2012,780000,4,3,6,65 berry road jupiter creek sa 5153
+51050439,29/02/1996,9500,2,1,2,10 gordon street goolwa beach sa 5214
+52344653,10/12/2012,520000,2,1,1,7 / 59 bridge street kensington sa 5068
+51233120,03/04/2000,242500,2,1,1,7 / 59 bridge street kensington sa 5068
+6785766,05/07/2003,352000,2,1,1,7 / 59 bridge street kensington sa 5068
+6785757,03/04/2000,242500,2,1,1,7 / 59 bridge street kensington sa 5068
+52096592,02/08/2007,230000,2,1,1,4 / 10 hope street encounter bay sa 5211
+52140674,09/05/2008,380000,3,2,2,19 holdfast drive sheidow park sa 5158
+6697149,25/11/2002,65500,3,2,2,19 holdfast drive sheidow park sa 5158
+7648442,01/08/2007,155000,3,1,1,7 / 1 douglas avenue salisbury sa 5108
+34494669,03/11/2011,443000,3,1,1,21 streeters road north plympton sa 5037
+52344467,07/12/2012,342000,3,1,1,21 streeters road north plympton sa 5037
+17680752,26/06/2008,355500,4,2,2,44 waterside drive burton sa 5110
+51322518,22/11/2001,129000,3,1,1,4 pine view close old reynella sa 5161
+52150717,24/07/2008,305000,3,1,1,4 pine view close old reynella sa 5161
+17835857,24/07/2008,305000,3,1,1,4 pine view close old reynella sa 5161
+7535098,22/11/2001,129000,3,1,1,4 pine view close old reynella sa 5161
+52345153,13/12/2012,360000,4,3,2,7 bayview avenue wirrina cove sa 5204
+51905291,23/02/2004,158000,3,2,1,16 swanson avenue gilles plains sa 5086
+19001164,09/10/2009,320000,3,2,1,16 swanson avenue gilles plains sa 5086
+52127011,06/02/2008,350000,4,2,3,17 herbert street moonta bay sa 5558
+38581861,13/12/2012,315000,4,2,3,17 herbert street moonta bay sa 5558
+51949358,14/12/2004,284000,4,2,3,17 herbert street moonta bay sa 5558
+38582379,12/12/2012,945000,4,3,2,5 southwater drive port lincoln sa 5606
+52826250,17/03/1994,105500,3,2,1,1 / 22 - 24 wheaton road plympton sa 5038
+52135017,28/03/2008,318000,3,2,1,1 / 24 wheaton road plympton sa 5038
+50963469,17/03/1994,105500,3,2,1,1 / 24 wheaton road plympton sa 5038
+6883930,17/03/1994,105500,3,1,2,1 / 24 wheaton road plympton sa 5038
+7097454,30/06/1998,57000,3,1,1,31 enterprise road elizabeth east sa 5112
+7097470,29/05/2003,115000,3,1,1,31 enterprise road elizabeth east sa 5112
+51881412,28/09/2003,242500,4,2,4,8 buckley crescent fairview park sa 5126
+52147202,26/06/2008,400000,4,2,4,8 buckley crescent fairview park sa 5126
+6991549,28/09/2003,242500,4,2,4,8 buckley crescent fairview park sa 5126
+50925451,11/06/1993,50000,2,1,1,3 / 14 - 16 hartman avenue modbury sa 5092
+51979519,11/07/2005,126000,3,2,1,28a hampden road mount barker sa 5251
+17680394,27/06/2008,305000,3,2,1,28a hampden road mount barker sa 5251
+17678098,27/06/2008,322500,3,2,1,6 balmain court golden grove sa 5125
+50965105,28/03/1994,85000,3,1,1,15 king street gawler sa 5118
+23531719,08/10/2010,380000,3,1,1,15 king street gawler sa 5118
+7318674,26/08/2002,180000,3,1,1,15 king street gawler sa 5118
+52387472,12/12/2013,360000,2,2,1,6 bayvue close carrickalinga sa 5204
+52413335,31/07/2014,541000,3,2,1,32 west street ascot park sa 5043
+52108244,11/10/2007,400000,4,2,2,94 fraser avenue happy valley sa 5159
+51060276,28/05/1996,155000,4,2,2,94 fraser avenue happy valley sa 5159
+7681503,11/10/2007,400000,5,2,2,94 fraser avenue happy valley sa 5159
+46381988,29/07/2014,230000,4,1,1,50 underwood avenue mount gambier sa 5290
+52412786,25/07/2014,285000,3,1,4,4 freeman avenue morphett vale sa 5162
+52220068,07/01/2010,259000,3,1,4,4 freeman avenue morphett vale sa 5162
+7499204,15/04/1993,79500,3,1,2,4 freeman avenue morphett vale sa 5162
+51103759,27/06/1997,28500,3,1,2,2 - 4 barunga street yankalilla sa 5203
+51301462,12/07/2001,135000,3,1,2,4 conroe drive mount gambier sa 5290
+52413115,30/07/2014,435000,3,1,3,46 lucas street richmond sa 5033
+7717536,11/12/2007,250000,3,2,3,9 viviancock street berri sa 5343
+46250125,29/07/2014,230000,3,2,3,9 vivian cock street berri sa 5343
+51195597,13/07/1999,64500,3,1,4,2 terry court salisbury park sa 5109
+52029601,13/06/2006,175000,3,1,4,2 terry court salisbury park sa 5109
+18704238,11/08/2009,242500,3,1,4,2 terry court salisbury park sa 5109
+7357272,25/05/2005,345000,4,2,1,60 moffett street woodside sa 5244
+18673029,24/07/2009,252750,2,1,1,28 / 11 ash street aberfoyle park sa 5159
+47691506,30/01/2015,0,3,1,2,6 thomas crescent reynella sa 5161
+51924486,28/06/2004,395000,3,2,4,42b moules road magill sa 5072
+52412500,24/07/2014,385000,3,1,1,56 conington crescent morphett vale sa 5162
+52413694,05/08/2014,752500,3,2,2,7 woodfield avenue fullarton sa 5063
+46353978,05/08/2014,752500,4,2,1,7 woodfield avenue fullarton sa 5063
+6651033,05/07/1993,155000,3,2,2,7 woodfield avenue fullarton sa 5063
+51907995,11/03/2004,180000,3,1,1,20 lakeland road munno para west sa 5115
+52424869,20/11/2014,601750,3,2,5,25 lawson avenue morphettville sa 5043
+52200375,11/08/2009,240000,2,1,1,7 / 10 da costa avenue prospect sa 5082
+52212337,10/11/2009,552500,2,1,2,4 west terrace nailsworth sa 5083
+52353819,14/03/2013,275000,3,1,1,4 cambridge street brahma lodge sa 5109
+51852639,24/04/2003,20000,3,1,1,44 prunus avenue elizabeth vale sa 5112
+18685042,07/08/2009,360000,3,2,1,41 albert street windsor gardens sa 5087
+18684477,07/08/2009,290000,3,1,1,9 rains drive pooraka sa 5095
+6626131,16/08/2004,280000,4,2,1,85 brighton parade blackwood sa 5051
+18727950,11/08/2009,475000,4,2,1,85 brighton parade blackwood sa 5051
+52412166,21/07/2014,1150000,5,3,2,4 trevorten avenue glenunga sa 5064
+46181082,21/07/2014,1150000,5,3,2,4 trevorten avenue glenunga sa 5064
+52048128,17/10/2006,95000,4,2,2,64 hall road redbanks sa 5502
+52414930,15/08/2014,415000,3,2,2,20 walnut street old reynella sa 5161
+51836385,24/01/2003,93375,3,1,2,1 gum crescent gawler west sa 5118
+18684591,11/08/2009,290000,3,1,3,11 john street morphett vale sa 5162
+52200862,14/08/2009,350000,4,2,2,37a stradbroke road athelstone sa 5076
+52414867,15/08/2014,249000,3,1,1,20 cooradilla drive salisbury park sa 5109
+52225744,11/02/2010,224000,3,1,1,20 cooradilla drive salisbury park sa 5109
+19311489,11/02/2010,224000,3,1,1,20 cooradilla drive salisbury park sa 5109
+52376954,12/09/2013,588000,4,2,4,26b arthur street tranmere sa 5073
+43430955,12/09/2013,588000,4,2,4,26b arthur street tranmere sa 5073
+6945639,06/01/1998,170000,3,2,2,7 silver crescent grange sa 5022
+52200847,14/08/2009,307000,4,2,6,20 tingara road evanston park sa 5116
+51345775,05/04/2002,145000,4,2,4,105 tollner road compton sa 5291
+52415079,19/08/2014,359750,3,1,4,71 wynham road moorak sa 5291
+52415262,20/08/2014,312500,3,2,2,5 dalblair court encounter bay sa 5211
+18672713,04/08/2009,280000,3,1,3,15 kurrie street hillbank sa 5112
+51117635,27/10/1997,65000,3,1,2,7 grosvenor road aldinga beach sa 5173
+52010970,24/02/2006,195000,3,1,2,7 grosvenor road aldinga beach sa 5173
+6739524,24/02/2006,195000,3,1,2,7 grosvenor road aldinga beach sa 5173
+51095086,17/04/1997,65000,3,1,4,8 panfry terrace edithburgh sa 5583
+51824131,15/11/2002,139000,3,1,4,8 panfry terrace edithburgh sa 5583
+7341867,12/04/2006,185000,3,1,2,8 panfry terrace edithburgh sa 5583
+52067255,16/02/2007,255000,3,1,2,60 jane street willaston sa 5118
+51037361,25/10/1995,98000,3,1,2,60 jane street willaston sa 5118
+52424837,20/11/2014,257500,3,1,2,60 jane street willaston sa 5118
+7320821,25/10/1995,98000,3,1,2,60 jane street willaston sa 5118
+7668175,18/09/2007,232000,3,1,2,60 jane street willaston sa 5118
+46249856,25/07/2014,325000,2,1,1,3 / 275 goodwood road kings park sa 5034
+52198049,23/07/2009,755000,3,2,3,36a chapel street magill sa 5072
+52200534,12/08/2009,329000,2,1,1,88 mahogany avenue highbury sa 5089
+52014177,16/03/2006,82000,4,2,2,8a whittaker terrace mount barker sa 5251
+52308200,31/01/2012,120000,3,1,8,243 scenic drive nelshaby sa 5540
+46441230,22/07/2014,370000,3,2,1,5 blackwood court athol park sa 5012
+46441198,15/08/2014,355000,4,2,2,28 vine parade munno para west sa 5115
+6616524,01/10/1993,425000,5,3,2,18 hillside road springfield sa 5062
+52415361,21/08/2014,285000,4,3,1,12 kiln drive brompton sa 5007
+52211831,05/11/2009,255000,4,3,1,12 kiln drive brompton sa 5007
+52193735,24/06/2009,347500,3,1,1,18a bentley drive holden hill sa 5088
+46458495,25/07/2014,340000,3,1,1,18a bentley drive holden hill sa 5088
+52414970,18/08/2014,238000,3,2,1,36 oakwood circuit munno para west sa 5115
+33721915,14/01/2008,98500,3,2,1,oakwood circuit munno para west sa 5115
+46441219,18/08/2014,238000,3,2,1,36 oakwood circuit munno para west sa 5115
+51074429,15/10/1996,65000,3,1,1,10 pira avenue salisbury north sa 5108
+52424847,20/11/2014,227000,3,1,1,10 pira avenue salisbury north sa 5108
+18746100,17/08/2009,265000,4,1,1,19 turnbull terrace glossop sa 5344
+52414986,18/08/2014,211000,2,1,1,1 / 292 main south road morphett vale sa 5162
+6933536,04/05/1998,290000,3,2,2,15 liberman court west lakes sa 5021
+6933544,25/11/2003,440000,3,2,2,15 liberman court west lakes sa 5021
+51057735,01/05/1996,11500,4,1,2,freycinet way penneshaw sa 5222
+52415350,21/08/2014,390000,3,2,2,17 lyndhurst road seaford sa 5169
+7504978,12/08/2002,180000,3,2,2,17 lyndhurst road seaford sa 5169
+52203306,02/09/2009,315950,4,2,4,56 admiralty circuit smithfield sa 5114
+52246453,26/07/2010,330000,4,2,4,56 admiralty circuit smithfield sa 5114
+52203595,04/09/2009,770000,5,3,2,20 pomona road stirling sa 5152
+7107772,18/07/2003,448000,5,3,2,20 pomona road stirling sa 5152
+19526437,28/04/2010,153000,3,2,2,buoy crescent seaford meadows sa 5169
+7028400,20/06/2006,89500,4,2,2,8 jordon street munno para west sa 5115
+52292689,24/08/2011,445000,6,3,2,24 banksia road aberfoyle park sa 5159
+33946229,24/08/2011,445000,6,3,2,24 banksia road aberfoyle park sa 5159
+52203203,01/09/2009,670000,3,2,2,2 / 3 carnoustie court west lakes sa 5021
+52292332,18/08/2011,668000,4,2,2,25 trinidad court west lakes sa 5021
+33970882,18/08/2011,668000,4,2,2,25 trinidad court west lakes sa 5021
+52294658,13/09/2011,239000,3,1,1,30 metala road paralowie sa 5108
+52165827,28/11/2008,287500,3,1,1,30 metala road paralowie sa 5108
+7633385,31/05/2007,265000,3,1,1,1 / 64 moldavia walk taperoo sa 5017
+52291731,12/08/2011,360000,3,1,2,83 kintore avenue kilburn sa 5084
+52292545,22/08/2011,465000,3,1,4,5 beltana street flinders park sa 5025
+52111782,01/11/2007,357500,2,1,2,2 lorne avenue magill sa 5072
+38359145,02/11/2012,916500,4,2,2,27 victoria street prospect sa 5082
+52058493,18/12/2006,755150,4,2,2,27 victoria street prospect sa 5082
+33946233,19/08/2011,325000,3,1,3,13 larkdale crescent o'halloran hill sa 5158
+33970710,25/08/2011,495000,4,2,3,3 sturtbrae crescent bellevue heights sa 5050
+52168670,18/12/2008,300000,3,1,1,22 arachne drive hallett cove sa 5158
+6690465,21/01/2000,120000,3,1,1,4 kara road seaview downs sa 5049
+17985775,07/12/2006,0,3,2,2,18 marina avenue belair sa 5052
+7031713,26/11/1999,53950,3,1,2,12 saint road smithfield plains sa 5114
+33970994,25/08/2011,390000,3,1,1,19 pile street gawler east sa 5118
+52292828,25/08/2011,575000,4,2,2,16 jessie street seacliff park sa 5049
+7647632,26/07/2007,523000,4,2,2,16 jessie street seacliff park sa 5049
+33946717,25/08/2011,350000,4,2,2,15 middleback drive whyalla jenkins sa 5609
+51852588,24/04/2003,166000,2,1,1,4 / 285 - 287 tapleys hill road seaton sa 5023
+52026416,22/05/2006,220000,2,1,1,4 / 285 - 287 tapleys hill road seaton sa 5023
+7373784,03/12/2004,280000,3,1,2,3 willow end hahndorf sa 5245
+52292922,25/08/2011,440000,3,1,2,47 sunshine avenue warradale sa 5046
+45005891,19/12/2013,0,3,1,1,47 sunshine avenue warradale sa 5046
+33946640,22/08/2011,470000,4,2,2,1 valley court sheidow park sa 5158
+51013672,30/03/1995,64500,2,1,1,8 / 364 military road semaphore park sa 5019
+52296095,27/09/2011,293000,3,2,1,17 selangor avenue fairview park sa 5126
+52100712,29/08/2007,150000,5,2,3,21 stately way wallaroo sa 5556
+7064408,22/10/2002,134000,4,2,2,21 stately way wallaroo sa 5556
+52271421,15/02/2011,231000,2,1,1,4 / 180 - 184 seaview road henley beach south sa 5022
+52084566,31/05/2007,230000,3,1,4,5 bells place reynella east sa 5161
+52293393,30/08/2011,270000,3,1,4,5 bells place reynella east sa 5161
+50974946,02/05/1994,81000,3,1,4,5 bells place reynella east sa 5161
+17698944,16/03/2007,450000,3,1,4,16 rutherglen avenue collinswood sa 5081
+50954489,13/01/1994,232000,4,3,3,19 lincoln avenue colonel light gardens sa 5041
+51140476,01/05/1998,200000,4,3,3,19 lincoln avenue colonel light gardens sa 5041
+52295713,22/09/2011,662000,4,2,2,4 millers road gawler south sa 5118
+52035318,17/07/2006,80000,3,1,2,3 the broadway murray bridge sa 5253
+51043921,21/12/1995,48750,2,1,2,111 marion road cowandilla sa 5033
+52291603,11/08/2011,380000,2,1,2,111 marion road cowandilla sa 5033
+52293121,26/08/2011,238000,3,1,1,2 yaldara road paralowie sa 5108
+52295893,23/09/2011,405000,5,1,3,13 st marys street st marys sa 5042
+18265948,26/02/2008,373500,5,1,3,13 st marys street st.marys sa 5042
+52178816,17/03/2009,149000,3,2,1,16 francis street northgate sa 5085
+52092375,12/07/2007,120000,3,2,2,12 kakadu drive morphett vale sa 5162
+51008539,17/02/1995,210000,4,2,4,11 kanmantoo road aldgate sa 5154
+52294610,12/09/2011,1,2,1,1,6 france street wallaroo sa 5556
+51181747,01/04/1999,83000,3,2,1,29 malinya drive salisbury park sa 5109
+7224603,20/02/2006,185000,2,1,1,29 malinya drive salisbury park sa 5109
+52296013,27/09/2011,101000,2,1,1,1 freeling street naracoorte sa 5271
+51258035,27/09/2000,61250,2,1,1,1 / 611 greenhill road burnside sa 5066
+18728526,21/08/2009,550000,4,2,2,13 petrel crescent mawson lakes sa 5095
+7263637,23/01/2003,89250,4,2,2,27 petrel crescent mawson lakes sa 5095
+51032236,07/09/1995,98000,3,1,1,14 cork road gawler east sa 5118
+52124389,18/01/2008,252500,3,1,1,14 cork road gawler east sa 5118
+18593572,07/07/2009,249000,2,1,1,3 / 115 gage street firle sa 5070
+52291337,08/08/2011,232000,3,1,2,10 limerick street salisbury downs sa 5108
+52291262,08/08/2011,245000,2,1,1,6 / 27 hartley road flinders park sa 5025
+52002709,20/12/2005,145000,2,1,1,6 / 27 hartley road flinders park sa 5025
+6907405,02/05/2003,106500,2,1,1,6 / 27 hartley road flinders park sa 5025
+6598860,14/12/2001,685000,4,2,4,12 balham avenue kingswood sa 5062
+6598856,20/02/2003,1005000,4,2,4,12 balham avenue kingswood sa 5062
+51356434,07/06/2002,280000,3,2,4,39 st georges terrace bellevue heights sa 5050
+51147410,26/06/1998,35000,3,1,1,34 featherstone circuit greenwith sa 5125
+7016010,26/06/1998,35000,3,1,1,34 featherstone circuit greenwith sa 5125
+52219429,24/12/2009,187000,3,1,1,45 haddington crescent mansfield park sa 5012
+52292186,18/08/2011,155000,3,1,2,4 payne street ceduna sa 5690
+7459071,04/02/2000,34200,3,1,2,4 payne street ceduna sa 5690
+51176530,25/02/1999,200500,3,1,2,18 ebor avenue mile end sa 5031
+52419676,01/10/2014,220000,3,1,2,18 ebor avenue mile end sa 5031
+46990972,01/10/2014,181000,3,2,1,1 / 58 seaton terrace seaton sa 5023
+47835959,02/10/2014,315000
+7263630,20/06/2003,65000,3,2,1,21 swan circuit mawson lakes sa 5095
+19030956,29/10/2009,345000,3,2,1,21 swan circuit mawson lakes sa 5095
+6848675,29/08/2003,198000,2,1,1,1 / 77 ashbrook avenue payneham sth sa 5070
+52211077,29/10/2009,394000,3,1,1,8 pelham street ethelton sa 5015
+52291235,05/08/2011,310000,4,1,4,13 pultney road reynella sa 5161
+52295703,22/09/2011,374000,3,1,2,26 wangianna street roxby downs sa 5725
+6746854,27/07/2004,225000,3,1,4,13 heathersay avenue aldinga beach sa 5173
+34078339,09/09/2011,270000,2,1,1,7 / 9 wakefield street kent town sa 5067
+46789471,02/10/2014,432000,3,2,2,2 spencer court flagstaff hill sa 5159
+52533221,27/05/2015,510000,3,2,2,16a albion terrace campbelltown sa 5074
+18071478,04/11/2008,210000,3,2,2,16a albion terrace campbelltown sa 5074
+52199424,03/08/2009,435000,4,2,2,5 lode court aberfoyle park sa 5159
+51099841,28/05/1997,97000,2,1,1,20 / 36 - 38 eighth street gawler south sa 5118
+7317964,28/05/1997,97000,2,1,1,20 / 36 - 38 eighth street gawler south sa 5118
+19060552,30/10/2009,575000,4,2,2,16 chatsworth court hallett cove sa 5158
+52090921,02/07/2007,1040000,4,2,2,298 carrington street adelaide sa 5000
+46440706,14/08/2014,1200000,4,2,2,298 carrington street adelaide sa 5000
+52388578,19/12/2013,820000,3,1,1,19 portland avenue sturt sa 5047
+7127160,20/11/2001,48000,3,1,2,237 senate road pt pirie west sa 5540
+52160644,16/10/2008,126000,4,1,1,18 hunkin terrace nangwarry sa 5277
+51236778,27/04/2000,275000,3,2,2,52 - 54 glenunga avenue glenunga sa 5064
+50912652,10/03/1993,92500,4,1,1,25 coolabah street mount gambier sa 5290
+52414583,14/08/2014,215000,4,1,1,25 coolabah street mount gambier sa 5290
+46440920,14/08/2014,215000,4,1,1,25 coolabah street mount gambier sa 5290
+51181386,31/03/1999,168000,4,2,2,33 wigley drive mclaren vale sa 5171
+51101286,10/06/1997,19500,3,1,2,49 john harris drive nuriootpa sa 5355
+52040643,24/08/2006,328000,4,2,6,5 fourth street gawler south sa 5118
+52292095,17/08/2011,398000,4,2,6,5 fourth street gawler south sa 5118
+51129952,09/02/1998,55000,3,1,3,15 harrow road reynella sa 5161
+52008468,03/02/2006,149500,3,1,1,15 huntingdale road noarlunga downs sa 5168
+51197680,28/07/1999,31000,3,1,2,213 woodford road elizabeth north sa 5113
+52073643,27/03/2007,350000,5,2,5,457 horrocks highway roseworthy sa 5371
+18970127,30/09/2009,805000,2,2,1,40 north terrace kent town sa 5067
+52086919,15/06/2007,190000,2,1,1,4 / 32 darley road paradise sa 5075
+34152796,23/09/2011,259000,2,1,2,4 / 32 darley road paradise sa 5075
+18684598,06/08/2009,262500,3,1,2,44 melsetter road huntfield heights sa 5163
+52156079,05/09/2008,120000,3,1,1,1 sixth street quorn sa 5433
+46440954,14/08/2014,85000,3,1,1,1 sixth street quorn sa 5433
+52413801,06/08/2014,485000,4,2,5,6 quintrell street moonta bay sa 5558
+52414666,14/08/2014,470000,3,2,2,1a dumfries avenue northfield sa 5085
+46441262,14/08/2014,470000,3,2,2,1a dumfries avenue northfield sa 5085
+51922725,18/06/2004,32000,4,2,2,5 federation drive naracoorte sa 5271
+46382271,07/08/2014,327000,4,2,2,5 federation drive naracoorte sa 5271
+35317302,28/03/2012,297500,3,2,2,5 federation drive naracoorte sa 5271
+33518950,28/06/2011,440000,3,1,2
+52199776,05/08/2009,283500,3,2,2,24 tasos drive munno para west sa 5115
+6814400,21/06/2005,286000,3,1,1,2 lelos street hectorville sa 5073
+47691780,07/01/2015,0,3,2,2,430 grand junction road clearview sa 5085
+52129758,26/02/2008,306000,3,1,3,10 sismey road christies beach sa 5165
+52414350,12/08/2014,320000,3,1,3,10 sismey road christies beach sa 5165
+7510071,27/11/2003,175000,3,1,4,10 sismey road christies beach sa 5165
+18298349,10/03/2009,0,4,1,3,13 sea view road para hills sa 5096
+19096939,13/11/2009,307500,4,1,3,13 sea view road para hills sa 5096
+26593017,14/04/2011,315000,4,1,3,13 sea view road para hills sa 5096
+52160647,16/10/2008,275000,3,2,2,22 selby street kurralta park sa 5037
+7042479,04/11/1996,21500,3,1,1,6 daintree walk blakeview sa 5114
+33971159,29/08/2011,285000,3,1,1,6 daintree walk blakeview sa 5114
+26592755,14/04/2011,690000,3,1,2,16 samson avenue westbourne park sa 5041
+50972163,08/07/1994,88000,3,1,2,26 whiting road st agnes sa 5097
+46381925,12/08/2014,360000,3,1,2,26 whiting road st.agnes sa 5097
+52278112,14/04/2011,355000,3,1,3,7 reserve avenue lobethal sa 5241
+19434243,03/03/2010,175000,3,1,3,7 reserve avenue lobethal sa 5241
+52414751,15/08/2014,565000,3,2,2,40b eton avenue magill sa 5072
+51927795,21/07/2004,120000,4,2,2,67 henderson avenue pooraka sa 5095
+7216911,06/04/1993,47000,4,2,2,67 henderson avenue pooraka sa 5095
+52295213,16/09/2011,240000,2,1,1,7 / 34 arundel road brighton sa 5048
+52414173,08/08/2014,266000,2,1,1,7 / 34 arundel road brighton sa 5048
+52056573,12/12/2006,265000,3,2,2,49 talladira way woodcroft sa 5162
+46382203,08/08/2014,377000,3,2,2,49 talladira way woodcroft sa 5162
+52436093,05/03/2015,328000,4,2,2,34 stirling crescent aldinga beach sa 5173
+52276190,30/03/2011,560000,3,1,1,3 / 16 high street burnside sa 5066
+52296219,28/09/2011,700000,4,2,7,51 louden hill road ob flat sa 5291
+52100285,27/08/2007,210000,3,1,1,105 gray street mount gambier sa 5290
+52199754,05/08/2009,228500,3,1,1,105 gray street mount gambier sa 5290
+51187689,19/05/1999,143500,2,1,1,3 / 319 military road henley beach sa 5022
+6947191,19/05/1999,143500,2,1,1,3 / 319 military road henley beach sa 5022
+6947200,29/07/2002,230000,2,1,1,3 / 319 military road henley beach sa 5022
+52265821,16/12/2010,600000,3,1,1,24 cavendish avenue devon park sa 5008
+46382444,11/08/2014,455000,3,1,1,24 cavendish avenue devon park sa 5008
+52313510,26/03/2012,415000,3,1,1,24 cavendish avenue devon park sa 5008
+35354298,26/03/2012,415000,3,1,1,24 cavendish avenue devon park sa 5008
+24429650,14/01/2011,395000,3,1,6,2 mcleod court greenwith sa 5125
+46441064,14/08/2014,395000,3,1,2,2 mcleod court greenwith sa 5125
+52436230,06/03/2015,342500,3,2,2,11 citrus street direk sa 5110
+48332310,06/03/2015,342500,3,2,2,11 citrus street direk sa 5110
+52277028,05/04/2011,365000,3,3,1,11 / 1 st kitts place mawson lakes sa 5095
+52093739,02/07/2007,272500,3,2,2,10c barber street willaston sa 5118

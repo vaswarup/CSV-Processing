@@ -1,0 +1,109 @@
+<project name="InsightData" default="jar" basedir=".">
+  
+  <description>Insight Data Build File</description>
+  
+  <!-- set global properties for this build -->
+  <property environment="env"/>
+  <property name="src.dir"   location="src"/>
+  <property name="build.dir" location="build"/>
+  <property name="lib.dir"   location="lib"/>
+  <property name="jar.file"  value="insight-data.jar"/>
+  <property name="bin.dir"   location="bin"/>
+  <property name="docs.dir"  location="docs"/>
+  <property name="test.dir"  location="test"/>
+  <property name="test.jar.file"  value="insight-data-test.jar"/>
+  <property name="dist.dir"  location="dist"/>
+
+  <path id="build.classpath">
+    <fileset dir="${lib.dir}" includes="**/*.jar"/> 
+    <fileset dir="${test.dir}/lib" includes="**/*.jar"/> 
+    <fileset dir="${build.dir}"/> 
+    <fileset dir="${test.dir}/classes"/> 
+  </path>
+ 
+  <target name="clean" description="clean up">
+    <!-- Delete the ${build.dir} and ${jar.file} directory trees -->
+    <delete dir="${build.dir}"/>
+    <delete dir="${test.dir}/classes"/>
+    <delete file="${lib.dir}/${jar.file}" failonerror="false"/>
+    <delete file="${lib.dir}/${test.jar.file}" failonerror="false"/>
+  </target>
+  
+  <target name="init">
+    <!-- Create the time stamp -->
+    <tstamp/>
+    <!-- Create the build directory structure used by compile -->
+    <mkdir dir="${build.dir}"/>
+    <mkdir dir="${test.dir}/classes"/>
+  </target>
+
+  <target name="compile" depends="init" description="compile the source ">
+    <!-- Compile the java code from ${src.dir} into ${build.dir} -->
+    <javac includeantruntime="false" srcdir="${src.dir}" destdir="${build.dir}" classpathref="build.classpath" debug="true">
+      <compilerarg line="-Xlint:all"/>
+    </javac>
+  </target>
+
+  <target name="jar" depends="compile" description="generate the jar">
+    <!-- Put everything in ${build.dir} into the ${jar.file} file -->
+    <jar jarfile="${lib.dir}/${jar.file}" basedir="${build.dir}">
+      <manifest>
+	<attribute name="Specification-Title" value="InsightData" />
+	<attribute name="Specification-Vendor" value="1.0" />
+	<attribute name="Implementation-Title" value="Sales" />
+	<attribute name="Implementation-Version" value="1.0.${DSTAMP}.${TSTAMP}" />
+	<attribute name="Implementation-Vendor" value="1.0" />
+      </manifest>
+    </jar>
+  </target>
+
+  <target name="compileTest">
+    <!-- Compile the java test code from ${test.dir}/src into ${test.dir}/classes -->
+    <javac includeantruntime="false" srcdir="${test.dir}/src" destdir="${test.dir}/classes" classpathref="build.classpath" debug="true">
+      <compilerarg line="-Xlint:all"/>
+    </javac>
+  </target>
+  
+  <target name="jarTest" depends="compileTest" description="generate the jar">
+    <!-- Put everything in ${test.dir}/classes into the ${test.jar.file} file -->
+    <jar jarfile="${lib.dir}/${test.jar.file}" basedir="${test.dir}/classes">
+      <manifest>
+	<attribute name="Specification-Title" value="InsightData Test" />
+	<attribute name="Specification-Vendor" value="1.0" />
+	<attribute name="Implementation-Title" value="Sales Test" />
+	<attribute name="Implementation-Version" value="1.0.${DSTAMP}.${TSTAMP}" />
+	<attribute name="Implementation-Vendor" value="1.0" />
+      </manifest>
+    </jar>
+  </target>
+  
+  <target name="test" depends="jarTest">
+    <junit printsummary="yes" haltonfailure="no">
+	<classpath refid="build.classpath" />
+	<classpath location="${test.dir}/classes" />
+
+	<formatter type="xml" />
+	<formatter type="plain" />
+        <batchtest fork="yes" todir="${test.dir}/reports">
+	    <fileset dir="${test.dir}/classes">
+                <include name="**/*Test*" />
+            </fileset>
+        </batchtest>
+    </junit>
+  </target>
+  
+  <target name="dist" description="create distributable">
+    <delete dir="${dist.dir}"/>
+    <mkdir dir="${dist.dir}"/>
+    <copy todir="${dist.dir}/docs">
+      <fileset dir="${docs.dir}" />
+    </copy>
+    <copy todir="${dist.dir}/lib">
+      <fileset dir="${lib.dir}" />
+    </copy>
+    <copy todir="${dist.dir}/bin">
+      <fileset dir="${bin.dir}" />
+    </copy>
+  </target>
+  
+</project>
